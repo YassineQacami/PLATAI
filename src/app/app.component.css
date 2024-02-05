@@ -1,0 +1,10 @@
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ajustez la hauteur en fonction de vos besoins */
+  }
+  
+  .centered-content {
+    text-align: center;
+  }
